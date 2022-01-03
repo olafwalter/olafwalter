@@ -1,4 +1,4 @@
-- 🦑 Hi, I’m @olafwalter <olaf.walter@bayer.com> (SGQDV)
+- 🦑 Hi, I’m @olafwalter (SGQDV)
 - 🏭 I’m with Bayer AG - Digital Transformation & IT - Product Platforms - Research
 - 🇪🇺 Located in Berlin
 - ⚒ Currently working on Kumo - the data management product for Genomics
