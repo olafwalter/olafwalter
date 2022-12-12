@@ -1,7 +1,7 @@
-- 🦑 Hi, I’m @olafwalter (SGQDV)
+- 🦑 Hi, I’m @olafwalter
 - 🏭 I’m with Bayer AG - Digital Transformation & IT - Product Platforms - Research
 - 🇪🇺 Located in Berlin
-- ⚒ Currently working on Kumo - the data management product for Genomics
+- ⚒ Currently working on data management for Genomics
 
 <!---
 olafwalter/olafwalter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
